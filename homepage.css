@@ -1,0 +1,39 @@
+body {
+    background-color: #c8d8e4;
+}
+/* end of common styles */
+.Title{
+    color:#2b6777;
+    text-align:center;
+    text-decoration: underline;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 50px;
+    margin:30px 30px 30px 30px;
+    }
+.left-content-img{
+    width:100%;
+    float:left;
+}
+.left-content-img img{
+    width:40%;
+    height:400;
+    margin-left:60px;
+    margin-right: 30px;
+}
+.Meme-btn{
+    width:59%;
+    float: left;
+    margin-left:250px;
+    padding: 1rem 1.5rem;
+}
+.Meme-btn button{
+    width:150px ;
+    height:30px;
+}
+.Meme-btn button:nth-child(1){
+    float: left;
+}
+.Meme-btn button:nth-child(2){
+    float: right;
+}
